@@ -24,7 +24,9 @@ body{
 
 }
 #navbar a:hover{
-    background-color:rgb(184, 104, 184);
+    background-color:rgb(196, 105, 196);
+    font-family: 'Dancing Script', cursive;
+    color:white;
 }
 #heading{
     font-size:60px;
@@ -43,7 +45,6 @@ body{
 }
 #cartlog{
     width:60%;
-    
     display:grid;
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: auto;
